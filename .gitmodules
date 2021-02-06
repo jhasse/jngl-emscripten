@@ -1,0 +1,6 @@
+[submodule "subprojects/jngl"]
+	path = subprojects/jngl
+	url = https://gitlab.com/jhasse/jngl.git
+[submodule "subprojects/emsdk"]
+	path = subprojects/emsdk
+	url = https://github.com/emscripten-core/emsdk.git
